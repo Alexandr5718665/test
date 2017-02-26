@@ -1,12 +1,12 @@
 body{
 	background:red;
 }
-#new-branch #master{
-		font-size:20pt;
-}
+<<<<<<< HEAD
 #new-branch{
 	color:white;
-}
+=======
 #master{
 	color:green;
+>>>>>>> master
+	font-size:20pt;
 }
