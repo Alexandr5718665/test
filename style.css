@@ -1,12 +1,12 @@
 body{
 	background:red;
 }
-#new-branch #master{
-		font-size:20pt;
-}
+
 #new-branch{
 	color:white;
+	font-size:20pt;
 }
 #master{
 	color:green;
+	font-size:20pt;
 }
